@@ -7,7 +7,7 @@ import { Inter } from "next/font/google";
 import { Toaster } from "sonner";
 
 export const metadata: Metadata = {
-  title: "Cappadocia",
+  title: "TrueDrop",
   description:
     "A comprehensive educational platform for students, teachers, and administrators",
 };
