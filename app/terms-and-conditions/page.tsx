@@ -25,8 +25,8 @@ export default function TermsAndConditions() {
         {/* Section 1 */}
         <section className="space-y-4">
           <div className="flex items-start gap-2 sm:gap-4">
-            <div className="flex h-7 w-7 sm:h-8 sm:w-8 flex-shrink-0 items-center justify-center rounded-full bg-primary text-primary-foreground text-sm sm:text-base font-semibold">
-              1
+            <div className="text-lg sm:text-xl font-semibold text-foreground">
+              1.
             </div>
             <div className="flex-1 min-w-0 space-y-3">
               <h2 className="text-lg sm:text-xl font-semibold text-foreground">
@@ -45,8 +45,8 @@ export default function TermsAndConditions() {
         {/* Section 2 */}
         <section className="space-y-4">
           <div className="flex items-start gap-2 sm:gap-4">
-            <div className="flex h-7 w-7 sm:h-8 sm:w-8 flex-shrink-0 items-center justify-center rounded-full bg-primary text-primary-foreground text-sm sm:text-base font-semibold">
-              2
+            <div className="text-lg sm:text-xl font-semibold text-foreground">
+              2.
             </div>
             <div className="flex-1 min-w-0 space-y-4">
               <h2 className="text-lg sm:text-xl font-semibold text-foreground">
@@ -92,8 +92,8 @@ export default function TermsAndConditions() {
         {/* Section 3 */}
         <section className="space-y-4">
           <div className="flex items-start gap-2 sm:gap-4">
-            <div className="flex h-7 w-7 sm:h-8 sm:w-8 flex-shrink-0 items-center justify-center rounded-full bg-primary text-primary-foreground text-sm sm:text-base font-semibold">
-              3
+            <div className="text-lg sm:text-xl font-semibold text-foreground">
+              3.
             </div>
             <div className="flex-1 min-w-0 space-y-3">
               <h2 className="text-lg sm:text-xl font-semibold text-foreground">
@@ -124,8 +124,8 @@ export default function TermsAndConditions() {
         {/* Section 4 */}
         <section className="space-y-4">
           <div className="flex items-start gap-2 sm:gap-4">
-            <div className="flex h-7 w-7 sm:h-8 sm:w-8 flex-shrink-0 items-center justify-center rounded-full bg-primary text-primary-foreground text-sm sm:text-base font-semibold">
-              4
+            <div className="text-lg sm:text-xl font-semibold text-foreground">
+              4.
             </div>
             <div className="flex-1 min-w-0 space-y-3">
               <h2 className="text-lg sm:text-xl font-semibold text-foreground">
@@ -146,8 +146,8 @@ export default function TermsAndConditions() {
         {/* Section 5 */}
         <section className="space-y-4">
           <div className="flex items-start gap-2 sm:gap-4">
-            <div className="flex h-7 w-7 sm:h-8 sm:w-8 flex-shrink-0 items-center justify-center rounded-full bg-primary text-primary-foreground text-sm sm:text-base font-semibold">
-              5
+            <div className="text-lg sm:text-xl font-semibold text-foreground">
+              5.
             </div>
             <div className="flex-1 min-w-0 space-y-4">
               <h2 className="text-lg sm:text-xl font-semibold text-foreground">
@@ -182,8 +182,8 @@ export default function TermsAndConditions() {
         {/* Section 6 */}
         <section className="space-y-4">
           <div className="flex items-start gap-2 sm:gap-4">
-            <div className="flex h-7 w-7 sm:h-8 sm:w-8 flex-shrink-0 items-center justify-center rounded-full bg-primary text-primary-foreground text-sm sm:text-base font-semibold">
-              6
+            <div className="text-lg sm:text-xl font-semibold text-foreground">
+              6.
             </div>
             <div className="flex-1 min-w-0 space-y-3">
               <h2 className="text-lg sm:text-xl font-semibold text-foreground">
@@ -207,8 +207,8 @@ export default function TermsAndConditions() {
         {/* Section 7 */}
         <section className="space-y-4">
           <div className="flex items-start gap-2 sm:gap-4">
-            <div className="flex h-7 w-7 sm:h-8 sm:w-8 flex-shrink-0 items-center justify-center rounded-full bg-primary text-primary-foreground text-sm sm:text-base font-semibold">
-              7
+            <div className="text-lg sm:text-xl font-semibold text-foreground">
+              7.
             </div>
             <div className="flex-1 min-w-0 space-y-3">
               <h2 className="text-lg sm:text-xl font-semibold text-foreground">
@@ -227,8 +227,8 @@ export default function TermsAndConditions() {
         {/* Section 8 */}
         <section className="space-y-4">
           <div className="flex items-start gap-2 sm:gap-4">
-            <div className="flex h-7 w-7 sm:h-8 sm:w-8 flex-shrink-0 items-center justify-center rounded-full bg-primary text-primary-foreground text-sm sm:text-base font-semibold">
-              8
+            <div className="text-lg sm:text-xl font-semibold text-foreground">
+              8.
             </div>
             <div className="flex-1 min-w-0 space-y-3">
               <h2 className="text-lg sm:text-xl font-semibold text-foreground">
@@ -248,8 +248,8 @@ export default function TermsAndConditions() {
         {/* Section 9 */}
         <section className="space-y-4">
           <div className="flex items-start gap-2 sm:gap-4">
-            <div className="flex h-7 w-7 sm:h-8 sm:w-8 flex-shrink-0 items-center justify-center rounded-full bg-primary text-primary-foreground text-sm sm:text-base font-semibold">
-              9
+            <div className="text-lg sm:text-xl font-semibold text-foreground">
+              9.
             </div>
             <div className="flex-1 min-w-0 space-y-3">
               <h2 className="text-lg sm:text-xl font-semibold text-foreground">
@@ -268,8 +268,8 @@ export default function TermsAndConditions() {
         {/* Section 10 */}
         <section className="space-y-4">
           <div className="flex items-start gap-2 sm:gap-4">
-            <div className="flex h-7 w-7 sm:h-8 sm:w-8 flex-shrink-0 items-center justify-center rounded-full bg-primary text-primary-foreground text-sm sm:text-base font-semibold">
-              10
+            <div className="text-lg sm:text-xl font-semibold text-foreground">
+              10.
             </div>
             <div className="flex-1 min-w-0 space-y-3">
               <h2 className="text-lg sm:text-xl font-semibold text-foreground">
@@ -295,8 +295,8 @@ export default function TermsAndConditions() {
         {/* Section 11 */}
         <section className="space-y-4">
           <div className="flex items-start gap-2 sm:gap-4">
-            <div className="flex h-7 w-7 sm:h-8 sm:w-8 flex-shrink-0 items-center justify-center rounded-full bg-primary text-primary-foreground text-sm sm:text-base font-semibold">
-              11
+            <div className="text-lg sm:text-xl font-semibold text-foreground">
+              11.
             </div>
             <div className="flex-1 min-w-0 space-y-3">
               <h2 className="text-lg sm:text-xl font-semibold text-foreground">
@@ -314,8 +314,8 @@ export default function TermsAndConditions() {
         {/* Section 12 */}
         <section className="space-y-4">
           <div className="flex items-start gap-2 sm:gap-4">
-            <div className="flex h-7 w-7 sm:h-8 sm:w-8 flex-shrink-0 items-center justify-center rounded-full bg-primary text-primary-foreground text-sm sm:text-base font-semibold">
-              12
+            <div className="text-lg sm:text-xl font-semibold text-foreground">
+              12.
             </div>
             <div className="flex-1 min-w-0 space-y-3">
               <h2 className="text-lg sm:text-xl font-semibold text-foreground">
@@ -334,8 +334,8 @@ export default function TermsAndConditions() {
         {/* Section 13 */}
         <section className="space-y-4">
           <div className="flex items-start gap-2 sm:gap-4">
-            <div className="flex h-7 w-7 sm:h-8 sm:w-8 flex-shrink-0 items-center justify-center rounded-full bg-primary text-primary-foreground text-sm sm:text-base font-semibold">
-              13
+            <div className="text-lg sm:text-xl font-semibold text-foreground">
+              13.
             </div>
             <div className="flex-1 min-w-0 space-y-3">
               <h2 className="text-lg sm:text-xl font-semibold text-foreground">
@@ -353,8 +353,8 @@ export default function TermsAndConditions() {
         {/* Section 14 */}
         <section className="space-y-4">
           <div className="flex items-start gap-2 sm:gap-4">
-            <div className="flex h-7 w-7 sm:h-8 sm:w-8 flex-shrink-0 items-center justify-center rounded-full bg-primary text-primary-foreground text-sm sm:text-base font-semibold">
-              14
+            <div className="text-lg sm:text-xl font-semibold text-foreground">
+              14.
             </div>
             <div className="flex-1 min-w-0 space-y-4">
               <h2 className="text-lg sm:text-xl font-semibold text-foreground">
