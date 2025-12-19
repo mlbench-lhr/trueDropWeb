@@ -120,7 +120,7 @@ export default function PrivacyPolicy() {
         <section className="space-y-4">
           <div className="flex items-start gap-2 sm:gap-4">
             <div className="text-lg sm:text-xl font-semibold text-foreground">
-              4
+              4.
             </div>
             <div className="flex-1 min-w-0 space-y-4">
               <h2 className="text-lg sm:text-xl font-semibold text-foreground">
@@ -149,7 +149,7 @@ export default function PrivacyPolicy() {
         <section className="space-y-4">
           <div className="flex items-start gap-2 sm:gap-4">
             <div className="text-lg sm:text-xl font-semibold text-foreground">
-              5
+              5.
             </div>
             <div className="flex-1 min-w-0 space-y-3">
               <h2 className="text-lg sm:text-xl font-semibold text-foreground">
@@ -167,7 +167,7 @@ export default function PrivacyPolicy() {
         <section className="space-y-4">
           <div className="flex items-start gap-2 sm:gap-4">
             <div className="text-lg sm:text-xl font-semibold text-foreground">
-              6
+              6.
             </div>
             <div className="flex-1 min-w-0 space-y-3">
               <h2 className="text-lg sm:text-xl font-semibold text-foreground">
@@ -186,7 +186,7 @@ export default function PrivacyPolicy() {
         <section className="space-y-4">
           <div className="flex items-start gap-2 sm:gap-4">
             <div className="text-lg sm:text-xl font-semibold text-foreground">
-              7
+              7.
             </div>
             <div className="flex-1 min-w-0 space-y-4">
               <h2 className="text-lg sm:text-xl font-semibold text-foreground">
